@@ -1,0 +1,5 @@
+title = "My Awesome Stream: {{.Title}} ({{.GameName}})"
+
+[twitch]
+client_id = ""
+client_secret = ""
